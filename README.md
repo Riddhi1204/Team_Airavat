@@ -1,4 +1,4 @@
-# NASMR — AI-Powered Civic Issue Intelligence Platform
+# NASMR — National AI-System for Municipal & Regional development
 
 > **Turning citizen voices into actionable, data-driven decisions.**
 
