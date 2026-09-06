@@ -1,6 +1,6 @@
-PROJECT: CivicPulse
+PROJECT: NASMR
 
-Build CivicPulse, a public civic issue reporting platform with an authority/admin dashboard.
+Build NASMR, a public civic issue reporting platform with an authority/admin dashboard.
 
 IMPORTANT:
 This is V1/MVP development.
@@ -40,7 +40,7 @@ The backend will initially run locally and should be designed so it can later be
 1. PRODUCT
 ==================================================
 
-CivicPulse is a public reporting platform.
+NASMR is a public reporting platform.
 
 A citizen visits the website and reports an issue in their local area.
 
@@ -478,7 +478,7 @@ Input:
 - source_language
 - target_language
 
-Target language for CivicPulse reports is English.
+Target language for NASMR reports is English.
 
 Return:
 
@@ -537,7 +537,7 @@ Do not hardcode provider logic into report creation.
 11. POPULATION
 ==================================================
 
-Population is extremely important to CivicPulse.
+Population is extremely important to NASMR.
 
 Do NOT make a remote population API call for every report if avoidable.
 
@@ -716,7 +716,7 @@ AI processing should be optional/failure-tolerant.
 15. PRIORITY ENGINE
 ==================================================
 
-This is a core CivicPulse component.
+This is a core NASMR component.
 
 Implement a deterministic scoring system.
 
@@ -988,7 +988,7 @@ Do not log:
 23. EXTERNAL SERVICE FAILURE
 ==================================================
 
-CivicPulse must not completely break when an external API is unavailable.
+NASMR must not completely break when an external API is unavailable.
 
 For example:
 
@@ -1314,7 +1314,7 @@ If database is unavailable, return an appropriate unhealthy status.
 
 Create a detailed README containing:
 
-- CivicPulse overview
+- NASMR overview
 - architecture
 - requirements
 - installation
@@ -1333,7 +1333,7 @@ Create a detailed README containing:
 35. FINAL PRINCIPLE
 ==================================================
 
-CivicPulse should be:
+NASMR should be:
 
 Simple enough to develop locally.
 
