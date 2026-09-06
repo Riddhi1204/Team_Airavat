@@ -1,4 +1,4 @@
-# CivicPulse
+# NASMR
 
 A public civic issue reporting platform with an authority/admin operations dashboard.
 
